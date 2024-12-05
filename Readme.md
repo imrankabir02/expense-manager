@@ -32,7 +32,7 @@ A full-stack application for managing expenses in multiple currencies, built wit
 ## Prerequisites
 
 - Node.js (v14 or higher)
-- npm or yarn
+- npm 
 - Git
 
 ## Getting Started
@@ -113,3 +113,22 @@ Frontend:
 cd frontend
 npm run build
 ```
+
+<!-- ## Future Improvements
+
+1. Add persistent storage (e.g., PostgreSQL)
+2. Implement user authentication
+3. Add expense categories and tags
+4. Implement expense filtering and sorting
+5. Add data export functionality
+6. Integrate with a live exchange rate API
+7. Add expense editing and deletion
+8. Implement expense reports and charts
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request -->
